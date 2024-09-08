@@ -1,0 +1,118 @@
+[
+    {
+      "storeName": "HCM SIGNATURE by The Coffee House",
+      "storeAddress": "TTTM Crescent Mall, 101 Tôn Dật Tiên, Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
+      "storeWktime": "7:00 - 22:00",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/sig-03_c74a0629d8b44ac580a3e9cf51fadb0a.png"
+    },
+    {
+      "storeName": "HCM The Grace Tower",
+      "storeAddress": "71 Hoàng Văn Thái, Tân Phú, Quận 7, Thành phố Hồ Chí Minh",
+      "storeWktime": "7:00 - 22:00",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/_kh_9308_71dd5f99cfe4431a82bbf9dae99f71ea.jpg"
+    },
+    {
+      "storeName": "HCM Hoàng Việt",
+      "storeAddress": "17 Út tịch, Q. Tân Bình, Hồ Chí Minh",
+      "storeWktime": "07:00 - 21:30",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/12232963_1646846405589379_7723364037985650962_o_9f5674e7c32a443094da29aed456c80f.jpeg"
+    },
+    {
+      "storeName": "HCM Lữ Gia",
+      "storeAddress": "64A Lữ Gia, Phường 15, Quận 11, Hồ Chí Minh",
+      "storeWktime": "07:30 - 22:00",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/hcm-lu-gia3__1__445a0dbf89f742fa905c918085faff5d.jpg"
+    },
+    {
+      "storeName": "HCM Ấp Bắc",
+      "storeAddress": "4 - 6 Ấp Bắc, Q. Tân Bình, Hồ Chí Minh",
+      "storeWktime": "07:00 - 21:30",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/348616594_979054596445935_748069377163866000_n_4a53b014854e49f8a44497df14a4036f.jpg"
+    },
+    {
+      "storeName": "HCM Bình Phú",
+      "storeAddress": "111-113-115 Bình Phú, Quận 6, Hồ Chí Minh",
+      "storeWktime": "07:00 - 21:30",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/hcm-binh-phu3_1ee0546874a841bc88667972585ac08c.jpg"
+    },
+    {
+      "storeName": "HCM Phan Văn Trị 3",
+      "storeAddress": "190 Phan Văn Trị, Phường 11, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam",
+      "storeWktime": "07:00 - 21:30",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/hcm-phan-van-tri-34_a78aab8c729042448c2d0f86aa3c49df.jpg"
+    },
+    {
+      "storeName": "HCM Homyland Q2",
+      "storeAddress": "SH2, Tầng 1 Dự án Chung cư cao cấp Homyland Riverside, Đ. Nguyễn Duy Trinh, P. Bình Trưng Tây, Quận 2, Hồ Chí Minh",
+      "storeWktime": "07:00 - 21:30",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/hcm-homyland-q23_e143564a1fe24c758a16b1a19ffca009.jpg"
+    },
+    {
+      "storeName": "HCM Ngô Tất Tố",
+      "storeAddress": "14B1 Đường Ngô Tất Tố, Phường 19, Bình Thạnh, Thành phố Hồ Chí Minh",
+      "storeWktime": "07:00 - 21:30",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/hcm-ngo-tat-to1_01d37da8de5949beb10694eaafb204d2.jpg"
+    },
+    {
+      "storeName": "HCM Mai Chí Thọ - New City Q2",
+      "storeAddress": "BA-SO1B, khối 9, Tầng trệt, số, 17 Mai Chí Thọ, P. Bình Khánh, Quận 2, Hồ Chí Minh",
+      "storeWktime": "07:00 - 21:30",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/hcm-mai-chi-tho4_8a17b0dd00df4c1caf150334555ddff3.jpg"
+    },
+    {
+      "storeName": "HCM Nguyễn Duy Trinh",
+      "storeAddress": "670 Nguyễn Duy Trinh, Bình Trưng Đông, Quận 2, Thành phố Hồ Chí Minh",
+      "storeWktime": "07:00 - 21:30",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/hcm-nguyen-duy-trinh3_9721cf6c39654cc8ac0dcaa1d15db2c6.jpg"
+    },
+    {
+      "storeName": "HCM Nguyễn Văn Thương (Đường D1)",
+      "storeAddress": "75 Nguyễn Văn Thương, Phường 25, Bình Thạnh, Thành phố Hồ Chí Minh, Vietnam",
+      "storeWktime": "07:00 - 21:30",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi",
+      "image": "https://file.hstatic.net/1000075078/file/hcm-nguyen-van-thuong3_e935cd28461548648e22a3a1b9e7230c.jpg"
+    },
+    {
+      "storeName": "Tên cửa hàng",
+      "storeAddress": "141 Nguyễn Thái Bình, quận 1",
+      "storeWktime": "T2-CN 08:00 - 21:00",
+      "parking": "Có chỗ đỗ xe hơi",
+      "family": "Thân thiện với gia đình",
+      "selfServing": "Mua mang đi"
+    }
+  ]

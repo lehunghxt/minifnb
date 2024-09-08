@@ -1,0 +1,416 @@
+[
+    {
+      "cateId": "107337573",
+      "cateName": "Cà Phê Highlight",
+      "productList": [
+        {
+          "name": "Trà Xanh Espresso Marble",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1703471714_bg-vang-tra-xanh-espresso-marble_623e89e4ba494e5096195656455e46da_large.jpg",
+          "cateId": "107337573"
+        }
+      ]
+    },
+    {
+      "cateId": "103658001",
+      "cateName": "Cà Phê Việt Nam",
+      "productList": [
+        {
+          "name": "Bơ Arabica",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1723623452_bo-arabica_a6e4672fe4fe4a92b4a8425c96f11789_large.jpg",
+          "cateId": "103658001"
+        },
+        {
+          "name": "Đường Đen Sữa Đá",
+          "price": "45.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1686716532_dd-suada_c180c6187e644babbac7019a2070231e_large.jpg",
+          "cateId": "103658001"
+        },
+        {
+          "name": "The Coffee House Sữa Đá",
+          "price": "39.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1675355354_bg-tch-sua-da-no_4fbf208885ed464ab4b5e145336d42a2_large.jpg",
+          "cateId": "103658001"
+        },
+        {
+          "name": "Cà Phê Sữa Đá",
+          "price": "29.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1669736835_ca-phe-sua-da_e6168b6a38ec45d2b4854d2708b5d542_large.png",
+          "cateId": "103658001"
+        }
+      ]
+    },
+    {
+      "cateId": "103658002",
+      "cateName": "Cà Phê Máy",
+      "productList": [
+        {
+          "name": "Đường Đen Marble Latte",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1686716537_dd-latte_785591205184481597a2a79b9331e03b_large.jpg",
+          "cateId": "103658002"
+        },
+        {
+          "name": "Caramel Macchiato Đá",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/caramel-macchiato_143623_0e070a39d0e54e808db4d91049430b51_large.jpg",
+          "cateId": "103658002"
+        },
+        {
+          "name": "Caramel Macchiato Nóng",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/caramelmacchiatonong_168039_9a4c155f15294771b9c300b0230c6a88_large.jpg",
+          "cateId": "103658002"
+        },
+        {
+          "name": "Latte Đá",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/latte-da_438410_ff2be8d76067434385f8e27b33fed780_large.jpg",
+          "cateId": "103658002"
+        }
+      ]
+    },
+    {
+      "cateId": "103658003",
+      "cateName": "Cold Brew",
+      "productList": [
+        {
+          "name": "Cold Brew Kim Quất",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1716811739_cold-brew-kim-quat-2_accd458085414678b3f86996899fe92f_large.jpg",
+          "cateId": "103658003"
+        },
+        {
+          "name": "Cold Brew Phúc Bồn Tử",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1675329120_coldbrew-pbt_127e09b0000c4027992bc3168899a656_large.jpg",
+          "cateId": "103658003"
+        },
+        {
+          "name": "Cold Brew Sữa Tươi",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/cold-brew-sua-tuoi_379576_990956a1473e4ded82c8f76b877b7d15_large.jpg",
+          "cateId": "103658003"
+        },
+        {
+          "name": "Cold Brew Truyền Thống",
+          "price": "45.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/classic-cold-brew_239501_31d6bfe69bc04714a437cff0fe0317ab_large.jpg",
+          "cateId": "103658003"
+        }
+      ]
+    },
+    {
+      "cateId": "107146009",
+      "cateName": "Trái Cây Xay 0°C",
+      "productList": [
+        {
+          "name": "Bơ Sữa Phô Mai Tươi",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1719929441_bo-sua-pmt_77e27a929b5340e5bc7b83bb1963f0eb_large.jpg",
+          "cateId": "107146009"
+        },
+        {
+          "name": "Dâu Phô Mai Tươi",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1717387639_dau-pho-mai_de092bfb88614bf1bfe9bd9defc6522f_large.jpg",
+          "cateId": "107146009"
+        },
+        {
+          "name": "Mận Phô Mai Tươi",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1717387385_man-pho-mai_76b43ef7a40b497f94c1ee695b400754_large.jpg",
+          "cateId": "107146009"
+        },
+        {
+          "name": "Mãng Cầu Phô Mai Tươi",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1717387907_man-cau-pho-mai_211483feb4e64f6a86bc23552155a3ce_large.jpg",
+          "cateId": "107146009"
+        }
+      ]
+    },
+    {
+      "cateId": "107145975",
+      "cateName": "Trà Trái Cây",
+      "productList": [
+        {
+          "name": "Oolong Tứ Quý Kim Quất Trân Châu",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1719200101_kimquat_45ee3b9b215949efa305287b5e6adaf7_large.jpg",
+          "cateId": "107145975"
+        },
+        {
+          "name": "Oolong Tứ Quý Vải",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1719200008_vai_8bf0d498a8904c3bbafe649f061c8e7c_large.jpg",
+          "cateId": "107145975"
+        },
+        {
+          "name": "Trà Đào Cam Sả - Đá",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1669736819_tra-dao-cam-sa-da_63defc32ce214da487850604a63ff281_large.png",
+          "cateId": "107145975"
+        },
+        {
+          "name": "Oolong Tứ Quý Sen",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/tra-sen_905594_4f266c5e671144abb90cbfceefdf1475_large.jpg",
+          "cateId": "107145975"
+        }
+      ]
+    },
+    {
+      "cateId": "104162787",
+      "cateName": "Hi-Tea",
+      "productList": [
+        {
+          "name": "Hi-Tea Đào Kombucha",
+          "price": "59.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1686716517_kombucha-dao_af90e639dc3d4216983a9ddcfccd67dd_large.jpg",
+          "cateId": "104162787"
+        },
+        {
+          "name": "Hi-Tea Yuzu Kombucha",
+          "price": "59.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1686716508_kombucha-yuzu_f271426c0d0f45b2bbfd8f04460e2f68_large.jpg",
+          "cateId": "104162787"
+        },
+        {
+          "name": "Hi-Tea Yuzu Trân Châu",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1669736859_hi-tea-yuzu-tran-chau_80502091853149679cfa09b41c9b0e75_large.png",
+          "cateId": "104162787"
+        },
+        {
+          "name": "Hi-Tea Vải",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1669736893_hi-tea-vai_4470344ced6f40a9bb397ea5d624cd84_large.png",
+          "cateId": "104162787"
+        }
+      ]
+    },
+    {
+      "cateId": "107191998",
+      "cateName": "Trà Sữa",
+      "productList": [
+        {
+          "name": "Trà Sữa Oolong Tứ Quý Bơ",
+          "price": "59.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1723623432_tra-sua-bo_f899c3c0befb42f59c9912bc4726983f_large.jpg",
+          "cateId": "107191998"
+        },
+        {
+          "name": "Trà Sữa Oolong Nướng Sương Sáo",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1716811640_oolong-suong-sao_2ade534615234d3a9a25add757e5ec27_large.jpg",
+          "cateId": "107191998"
+        },
+        {
+          "name": "Trà Đen Macchiato",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/tra-den-matchiato_430281_bf2d5faa6f5d4bceb00cc0fc5a9b7546_large.jpg",
+          "cateId": "107191998"
+        },
+        {
+          "name": "Hồng Trà Sữa Trân Châu",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/hong-tra-sua-tran-chau_326977_b1af0629f2724302bd0acc18038eb9b1_large.jpg",
+          "cateId": "107191998"
+        }
+      ]
+    },
+    {
+      "cateId": "106067509",
+      "cateName": "Trà Xanh Tây Bắc",
+      "productList": [
+        {
+          "name": "Trà Xanh Latte Sữa Yến Mạch",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1723624000_tra-xanh-sua-yen-mach_82768370a5de4495ae1ed82a94af428b_large.jpg",
+          "cateId": "106067509"
+        },
+        {
+          "name": "Trà Xanh Latte Đậm Vị",
+          "price": "49.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1724129017_tra-xanh-latte-dam-vi_3ce16cd405514a008b99f6d605687d35_large.jpg",
+          "cateId": "106067509"
+        },
+        {
+          "name": "Trà Xanh Latte",
+          "price": "45.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/photo_2024-08-21_11.23.58_f887825f2efd4fbe981d27860ff14642_large.jpeg",
+          "cateId": "106067509"
+        },
+        {
+          "name": "Trà Xanh Nước Dừa",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1723623922_tra-xanh-nuoc-dua_b24076b5cdd34b70b541e397d2b4a3a5_large.jpg",
+          "cateId": "106067509"
+        }
+      ]
+    },
+    {
+      "cateId": "106067581",
+      "cateName": "Chocolate",
+      "productList": [
+        {
+          "name": "Chocolate Nóng",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/chocolatenong_949029_0f56d0c1e7b94685a46389ea985ccabf_large.jpg",
+          "cateId": "106067581"
+        },
+        {
+          "name": "Chocolate Đá",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/chocolate-da_877186_5fa0d83d5852491aaef7df18cb2931b6_large.jpg",
+          "cateId": "106067581"
+        }
+      ]
+    },
+    {
+      "cateId": "105857415",
+      "cateName": "Đá xay Frosty",
+      "productList": [
+        {
+          "name": "Frosty Phin-Gato",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1697441914_phin-gato_304446dce9ec4fe0a5527536b93f6eda_large.png",
+          "cateId": "105857415"
+        },
+        {
+          "name": "Frosty Cà Phê Đường Đen",
+          "price": "59.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1697441939_ca-phe-duong-den_684615fd8fce40c2a1f6a03e0555fe62_large.png",
+          "cateId": "105857415"
+        },
+        {
+          "name": "Frosty Caramel Arabica",
+          "price": "59.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1697441933_caramel-arabica_64cd3e11a9904076b7a64e24d6d20f21_large.png",
+          "cateId": "105857415"
+        },
+        {
+          "name": "Frosty Bánh Kem Dâu",
+          "price": "59.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1697441945_banh-kem-dau_b1d03d84a9944d458f5948a3b7ce48f3_large.png",
+          "cateId": "105857415"
+        }
+      ]
+    },
+    {
+      "cateId": "103705290",
+      "cateName": "Bánh mặn",
+      "productList": [
+        {
+          "name": "Bánh Mì Que Pate",
+          "price": "15.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1669736956_banh-mi-que-pate_bd27674252f64f8d95919a7e18f41eba_large.png",
+          "cateId": "103705290"
+        },
+        {
+          "name": "Bánh Mì Que Pate Cay",
+          "price": "15.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/banhmique_683851_6c6ed2b8eba6421d88f2d21dc6bd3c94_large.jpg",
+          "cateId": "103705290"
+        },
+        {
+          "name": "Croissant trứng muối",
+          "price": "39.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/croissant-trung-muoi_880850_7783d45576164e06a6cc76e5a6831722_large.jpg",
+          "cateId": "103705290"
+        },
+        {
+          "name": "Butter Croissant Sữa Đặc",
+          "price": "35.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1701780462_butter-sua-dac_9e3606ed55a941389682bf43964544aa_large.jpg",
+          "cateId": "103705290"
+        }
+      ]
+    },
+    {
+      "cateId": "103705291",
+      "cateName": "Bánh ngọt",
+      "productList": [
+        {
+          "name": "Mochi Kem Phúc Bồn Tử",
+          "price": "19.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1643102019_mochi-phucbontu_a5186a3596e6402bb3c4f99771f362b3_large.jpg",
+          "cateId": "103705291"
+        },
+        {
+          "name": "Mochi Kem Việt Quất",
+          "price": "19.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1643102034_mochi-vietquat_8374f6f207ee4009a4c5f121d741e28a_large.jpg",
+          "cateId": "103705291"
+        },
+        {
+          "name": "Mochi Kem Dừa Dứa",
+          "price": "19.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1643101996_mochi-dua_d8414db9493747ad81ff19b29c1dc4da_large.jpg",
+          "cateId": "103705291"
+        },
+        {
+          "name": "Mochi Kem Chocolate",
+          "price": "19.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1655348107_mochi-choco_543934f258024fcda80d4567aea211c3_large.jpg",
+          "cateId": "103705291"
+        }
+      ]
+    },
+    {
+      "cateId": "106502737",
+      "cateName": "Bánh Pastry",
+      "productList": [
+        {
+          "name": "Butter Croissant",
+          "price": "29.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1698736606_butter-croissant_f952fd32580e45c4addac7c3eb787c61_large.jpg",
+          "cateId": "106502737"
+        },
+        {
+          "name": "Choco Croffle",
+          "price": "39.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1712139673_choco_c5421fb9b4c84db88976fb58fe7705b3_large.jpg",
+          "cateId": "106502737"
+        },
+        {
+          "name": "Pate Chaud",
+          "price": "39.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1698736662_pate-chaud_50e554c5936645a49c55f1f46ec81098_large.jpg",
+          "cateId": "106502737"
+        }
+      ]
+    },
+    {
+      "cateId": "103759347",
+      "cateName": "Cà phê tại nhà",
+      "productList": [
+        {
+          "name": "Cà Phê Đen Đá Túi (30 gói x 16g)",
+          "price": "116.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1697446642_ca-phe-den-da-tui_a178a9f2d9a84425b5c5397da639bf92_large.jpg",
+          "cateId": "103759347"
+        },
+        {
+          "name": "Cà Phê Sữa Đá Hòa Tan (10 gói x 22g)",
+          "price": "48.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/cpsd-3in1_971575_21adaf23d2854493afe6c4941308079d_large.jpg",
+          "cateId": "103759347"
+        },
+        {
+          "name": "Cà Phê Sữa Đá Hòa Tan Túi 25x22G",
+          "price": "114.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1639648355_ca-phe-sua-da-hoa-tan-tui-25x22gr_78055e22bf7c4b17bb917cfbbf60ac06_large.jpg",
+          "cateId": "103759347"
+        },
+        {
+          "name": "Cà Phê Hoà Tan Đậm Vị Việt (18 gói x 16 gam)",
+          "price": "55.000 đ",
+          "image": "https://product.hstatic.net/1000075078/product/1639648313_ca-phe-sua-da-hoa-tan-dam-vi-viet_cae2bfaf82ca499597e1b2f5b947b4b3_large.jpg",
+          "cateId": "103759347"
+        }
+      ]
+    }
+  ]

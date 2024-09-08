@@ -1,0 +1,23 @@
+var proCate = [];
+var categories = [];
+$('.cha.block_menu_item.loaded').each(function () {
+  var cateId = $(this).attr('id');
+  var cateName = $(this).find('.line_after_heading.section_heading').text();
+  var productList = [];
+  $(this).find('.flex_wrap.display_flex.menu_lists.menu_list_collection > .menu_item').each(function () {
+    var childThis = this;
+    var image = $(childThis).find('.menu_item_image > a > img').attr('src');
+    var name = $(childThis).find('.menu_item_info a').text();
+    var price = $(childThis).find('.menu_item_info .price_product_item').text();
+    if(productList.length === 4) return;
+    productList.push({
+      name, price,image: 'https:'+image, cateId
+    })
+    
+  });
+  proCate.push({cateId, cateName, productList})
+  categories.push({cateId, cateName})
+});
+console.log(JSON.stringify(proCate))
+console.log(JSON.stringify(categories))
+
