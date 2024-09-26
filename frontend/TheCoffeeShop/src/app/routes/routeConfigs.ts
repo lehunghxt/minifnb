@@ -17,6 +17,7 @@ export enum RouteName {
   StoreScreen = 'StoreScreen',
   PromotionScreen = 'PromotionScreen',
   OtherScreen = 'OtherScreen',
+  Dashboard = 'DashboardScreen',
 }
 
 export const initialRouteName = RouteName.Authenticate;
@@ -31,6 +32,7 @@ export type RootStackParamList = {
   [RouteName.CartScreen]: undefined;
   [RouteName.StoreScreen]: undefined;
   [RouteName.OtherScreen]: undefined;
+  [RouteName.Dashboard]: undefined;
 };
 export const linking: LinkingOptions<ReactNavigation.RootParamList> = {
   prefixes: ['/'],

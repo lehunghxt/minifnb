@@ -13,21 +13,21 @@ const MainNavigator = () => {
       <MainStack.Navigator initialRouteName={RouteName.HomeScreen}>
         <MainStack.Group
           screenOptions={{
-            presentation: 'transparentModal',
-            headerShown: false,
-            gestureEnabled: false,
-            ...TransitionPresets.ModalSlideFromBottomIOS
-          }}>
-          <MainStack.Screen name={RouteName.CartScreen} component={CartScreen} />
-          <MainStack.Screen name={RouteName.ProductDetailScreen} component={ProductDetailScreen} />
-        </MainStack.Group>
-        <MainStack.Group
-          screenOptions={{
             headerShown: false,
             gestureEnabled: false,
             ...TransitionPresets.SlideFromRightIOS,
           }}>
-          <MainStack.Screen name={RouteName.HomeScreen} component={TabNavigator} />
+          <MainStack.Screen name={RouteName.Dashboard} component={TabNavigator} />
+        </MainStack.Group>
+        <MainStack.Group
+          screenOptions={{
+            presentation: 'transparentModal',
+            headerShown: false,
+            gestureEnabled: false,
+            ...TransitionPresets.ModalSlideFromBottomIOS,
+          }}>
+          <MainStack.Screen name={RouteName.CartScreen} component={CartScreen} />
+          <MainStack.Screen name={RouteName.ProductDetailScreen} component={ProductDetailScreen} />
         </MainStack.Group>
       </MainStack.Navigator>
     </NavigationContainer>
